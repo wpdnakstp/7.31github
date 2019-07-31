@@ -1,0 +1,1 @@
+web: gunicorn'prpr'.wsgi --log-file -
